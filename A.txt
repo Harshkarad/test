@@ -1,5 +1,11 @@
+
 // sign up feature 
 // 100%
+
+feature 1
+// some login with otp
+// 75% 
+
 
 Harshal Ramdas karad
 karad
